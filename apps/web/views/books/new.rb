@@ -3,7 +3,7 @@
 module Web
   module Views
     module Books
-      class Index
+      class New
         include Web::View
       end
     end

@@ -1,10 +1,9 @@
 # frozen_string_literal: true
 
-# apps/web/controllers/home/index.rb
 module Web
   module Controllers
-    module Home
-      class Index
+    module Books
+      class New
         include Web::Action
 
         def call(params); end

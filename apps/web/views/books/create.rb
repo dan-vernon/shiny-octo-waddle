@@ -1,9 +1,7 @@
-# frozen_string_literal: true
-
 module Web
   module Views
     module Books
-      class Index
+      class Create
         include Web::View
       end
     end
